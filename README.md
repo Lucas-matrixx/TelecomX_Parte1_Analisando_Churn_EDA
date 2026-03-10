@@ -1,5 +1,15 @@
 # 📊 TelecomX — Análise de Evasão de Clientes (Churn)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
+![NumPy](https://img.shields.io/badge/NumPy-Visualization-013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-2E8B57)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Preparation-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 Projeto de **Análise Exploratória de Dados (EDA)** desenvolvido com o objetivo de investigar padrões associados à **evasão de clientes (churn)** na empresa fictícia **TelecomX**.
 
 A análise busca identificar fatores que contribuem para o cancelamento de serviços e gerar **insights estratégicos que possam apoiar decisões de retenção de clientes**.
