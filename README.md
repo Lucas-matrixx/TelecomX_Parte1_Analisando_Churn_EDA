@@ -29,10 +29,6 @@ A partir da análise dos dados, busca-se:
 
 ---
 
-# 📂 Estrutura do Projeto
-
----
-
 # 🧹 Preparação e Tratamento dos Dados
 
 Antes da análise exploratória, foi realizada uma etapa de **limpeza e preparação dos dados**, incluindo:
